@@ -10,6 +10,8 @@ const App = () => {
 
            <div>
                 <Navbar></Navbar>
+                
+                
            </div>
 
            <Routes>
